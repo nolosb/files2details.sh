@@ -1,6 +1,6 @@
-# files2details
+# files2details.sh
 
-A simple shell script to include files as html \<details\> elements in a static html page, so it will look like:
+A simple shell script to read files from a folder, convert them to html \<details\> element and produce a html snippet file as output, so it will look like this:  
 
 <details><summary>file 1</summary>file content</details>
 <details><summary>file 2</summary>file content</details>
