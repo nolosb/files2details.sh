@@ -9,5 +9,3 @@ A simple shell script to read text files from a folder, convert them to html \<d
 Uses [txt2html](http://txt2html.sourceforge.net) for the conversion.  
 The code of includeHTML.js is copied from [w3schools.com](https://www.w3schools.com/howto/howto_html_include.asp).  
 Otherwise this is free software released into the public domain.
-
-
