@@ -6,8 +6,8 @@ A simple shell script to include files as html \<details\> elements in a static 
 <details><summary>file 2</summary>file content</details>
 </br>
 
-Uses [txt2html](http://txt2html.sourceforge.net) for the conversion.
-
-All code in this repository is free software released into the public domain.
+Uses [txt2html](http://txt2html.sourceforge.net) for the conversion.  
+The code of includeHTML.js is copied from [w3schools.com](https://www.w3schools.com/howto/howto_html_include.asp).  
+Otherwise this is free software released into the public domain.
 
 
