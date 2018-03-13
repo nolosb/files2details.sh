@@ -11,4 +11,3 @@ DETAILS="$DETAILS\
 done
 
 echo "$DETAILS" > details.html
-
